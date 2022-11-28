@@ -1,7 +1,7 @@
 package com.example.newsappmvvm.api
 
 import com.example.newsappmvvm.models.NewsResponse
-import com.example.newsappmvvm.utils.constants.Companion.API_KEY
+import com.example.newsappmvvm.utils.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
